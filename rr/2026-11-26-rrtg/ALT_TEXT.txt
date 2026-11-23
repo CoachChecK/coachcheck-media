@@ -1,6 +1,6 @@
 RRTG_teaser_story.png: Six days after the turkey, the signing period opens. The transfer talk to have at the table. Tomorrow 8 am. The Reverse Recruiter.
 RRTG_story_1.png: Around the table: the transfer talk every family should have this Thanksgiving. The Reverse Recruiter.
-RRTG_story_2.png: Three clocks. Signing Dec 2 to 4. Visiting: dead period through Dec 31. Transferring: Jan 4 to 13, 2027.
+RRTG_story_2.png: Three clocks. Signing Dec 2 to 4. Visiting: FBS dead period through Dec 31. Transferring: Jan 4 to 13, 2027.
 RRTG_story_3.png: The three table questions: what would make a move worth it, who do we ask first, what do we need in writing. Read it free.
 RRTG_feed.png: Around the Table: the transfer talk every family should have this Thanksgiving. The Reverse Recruiter, new issue every Thursday.
 RRTG_linkcard.png: Around the Table: the transfer talk every family should have this Thanksgiving. The Reverse Recruiter, new issue every Thursday.
